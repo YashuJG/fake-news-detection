@@ -210,6 +210,6 @@ streamlit run main.py
 
 ## 👩‍💻 Author
 
-**Yasaswini Srigive**
+**Yasaswini Sri**
 
 Feel free to ⭐ star this repository if you found it useful!
